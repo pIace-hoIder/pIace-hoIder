@@ -10,7 +10,7 @@
 
 <p align="center">
   <b> ​🇫​​🇱​​🇴​​🇼​​🇪​​🇷​​🇸​  ​🇦​​🇳​​🇩​ ​🇹​​🇭​​🇴​​🇷​​🇳​​🇸​ <br>
-  <a href= "https://azresash.atabook.org">
+  <a href= "https://github.com/Azresash"> ​🇲​​🇾​ ​🇬​​🇱​​🇴​​🇼​​🇮​​🇳​​🇬​ ​🇱​​🇮​​🇬​​🇭​​🇹​ </a>
 
   <p align="center">
   <img src="https://komarev.com/ghpvc/?username=your-github-pIace-hoIder&label=Hours&color=3484a0&style=plastic&abbreviated=true&base=1">
