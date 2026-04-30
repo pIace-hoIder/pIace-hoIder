@@ -1,18 +1,2 @@
-<img align="center" width="900" height="600" alt="image" src="https://64.media.tumblr.com/ca7d8b594b9f3a389aa262d1d5eef74f/b4629fdb3aa70224-5b/s1280x1920/369256cc2ba3acb4487b63ac0337cb5a8a3c8f03.pnj" />
 
-<p align="center">
-​✿ ​🇬​​🇮​​🇻​​🇪​ ​🇲​​🇪​ ​🇦​ ​🇼​​🇭​​🇴​​🇱​​🇪​ ​🇫​​🇱​​🇴​​🇼​​🇪​​🇷​ ​🇧​​🇴​​🇺​​🇶​​🇺​​🇪​​🇹​ ​🇼​​🇮​​🇹​​🇭​ ​🇾​​🇴​​🇺​​🇷​ ​🇳​​🇦​​🇲​​🇪​ ​🇴​​🇳​ ​🇮​​🇹​​
-</p>
-
-<p align="center">
-​🇸​​🇴​​🇦​​🇵​ ノ ​🇫​​🇪​​🇱​​🇮​​🇽​​
-</p>
-
-<p align="center">
-  <b> ​🇫​​🇱​​🇴​​🇼​​🇪​​🇷​​🇸​  ​🇦​​🇳​​🇩​ ​🇹​​🇭​​🇴​​🇷​​🇳​​🇸​ <br>
-  <a href= "https://github.com/Azresash"> ​🇲​​🇾​ ​🇬​​🇱​​🇴​​🇼​​🇮​​🇳​​🇬​ ​🇱​​🇮​​🇬​​🇭​​🇹​ </a>
-
-  <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-pIace-hoIder&label=Hours&color=3484a0&style=plastic&abbreviated=true&base=1">
-</p>
 
